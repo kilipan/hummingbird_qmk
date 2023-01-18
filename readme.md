@@ -22,7 +22,7 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 ## Default keymap
 The default keymap is set to Colemak (mod DH) with the Z, V, K, and / keys missing. They are reacheable via combos of the nearest two buttons in the bottom row.
-Please consult the [keymap file](https://github.com/kilipan/hummingbird_qmk/keymaps/default/keymap.c) for further details.
+Please consult the [keymap file](https://github.com/kilipan/hummingbird_qmk/blob/main/keymaps/default/keymap.c) for further details.
 
 ## Bootloader
 
