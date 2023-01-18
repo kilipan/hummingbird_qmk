@@ -92,10 +92,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                    _______, _______, _______, _______
     ),
     [_SYM] = LAYOUT_hummingbird(
-        KC_GRV,  XXXXXXX, KC_DQT,  KC_MDOT, KC_LCBR, KC_RCBR, KC_BSLS, KC_PIPE, KC_LT,   KC_GT,
+        KC_GRV,  XXXXXXX, KC_DQT,  KC_MDOT, KC_LBRC, KC_RBRC, KC_BSLS, KC_PIPE, KC_LT,   KC_GT,
         KC_EXLM, KC_AT,   KC_HASH, KC_DLR,  KC_LPRN, KC_RPRN, KC_AMPR, KC_ASTR, KC_PERC, KC_CIRC,
                  XXXXXXX, KC_QUOT, KC_UNDS,                   KC_MINS, KC_PLUS, KC_EQL,
-                                   _______, _______, _______, _______
+                                   _______, KC_LSFT, _______, _______
     ),
     [_FUN] = LAYOUT_hummingbird(
         QK_RBT,  QK_BOOT, _______, _______, _______, XXXXXXX, KC_F7,   KC_F8,   KC_F9,   KC_F12,
