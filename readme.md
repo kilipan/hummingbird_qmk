@@ -26,7 +26,7 @@ Please consult the [keymap file](https://github.com/kilipan/hummingbird_qmk/blob
 
 ## Bootloader
 
-Enter the bootloader in 3 ways:
+Enter the bootloader in 2 ways:
 
 * **Physical reset button**: Press the reset button (labelled "R") while holding down the bootloader button (labelled "B")
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` (hold right button of the right thumb and press the top button of the left ring finger
